@@ -1,4 +1,4 @@
-const germesConfig = require('@kot-shrodingera-team/prettier-germes-config/.prettierrc');
+const germesConfig = require('@kot-shrodingera-team/prettier-config-germes/.prettierrc');
 
 module.exports = {
   ...germesConfig,
