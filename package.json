@@ -1,6 +1,6 @@
 {
   "name": "@kot-shrodingera-team/typescript-config-germes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "devDependencies": {
     "@kot-shrodingera-team/eslint-config-germes-base": "^1.0.0",
     "@kot-shrodingera-team/prettier-config-germes": "^1.0.0",
